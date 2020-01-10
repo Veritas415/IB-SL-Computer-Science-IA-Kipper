@@ -1,0 +1,57 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://i.kinja-img.com/gawker-media/image/upload/s--S2sas63l--/c_scale,f_auto,fl_progressive,q_80,w_800/safownmuxvksecridsm5.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+/*canvas {
+  display: block;
+} */
+table, tr, td {
+  color: gold;
+	border: 1px solid;
+  border-color: gold;
+	background-color: midnightblue;
+}
+
+
+h1 {
+	color: red; 
+  text-align: center;
+  font-weight: bold;
+  text-shadow: #000000 0px 0px 1px;
+    /*-webkit-font-smoothing: antialiased;*/
+}
+
+h2 {
+  color: gold;
+}
+
+button {
+  color: gold;
+  background-color: midnightblue;
+
+}
+
+a {
+  color: gold;
+
+}
+
+#Samples {
+  text-shadow: ;
+  text-align: center;
+  color: gold;
+}
+
+p {
+  color: gold;
+
+
+}
+
+div {
+  color: gold;
+
+}
